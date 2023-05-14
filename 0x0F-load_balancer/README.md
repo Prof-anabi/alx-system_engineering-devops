@@ -1,3 +1,3 @@
-# Load Balancer
+# Load Balancer project
 #AUTHOR 
-Adam Umar Faruq<umarfaruqadam03@gmail.com>
+Anabi Asah<anabiasah@gmail.com>
